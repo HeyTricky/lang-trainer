@@ -1,0 +1,75 @@
+@CHARSET "utf-8";
+
+.center-tr th {
+    text-align: center;
+}
+
+.logo {
+    width: 30%;
+    float: left;
+}
+
+.logo a {
+    color: #939393;
+    font-size: 2em;
+    font-family: Times New Roman, sans-serif;
+    text-decoration: none;
+}
+
+.logo span {
+    color: #e46565;
+}
+
+.themeHeader {
+    background-color: rgba(255, 250, 235, 0.46);
+    border-bottom: 2px solid silver;
+}
+
+.themeFooter {
+    background-color: rgba(255, 250, 235, 0.46);
+    border-top: 2px solid silver;
+}
+
+.sizeLink {
+    font-size: 1.2em;
+}
+
+.btn-translate {
+    width: 150px;
+    float: right;
+    margin-top: 10px;
+}
+
+.btn-width {
+    width: 150px;
+}
+
+.mrg-top-20 {
+    margin-top: 20px;
+}
+
+.mrg-top-10 {
+    margin-top: 10px;
+}
+
+.none-display {
+    display: none;
+}
+
+.save-btn {
+    width: 100%;
+}
+
+.my-text-area {
+    resize: none;
+    margin-top: 10px;
+}
+
+.btn-start {
+    float: right;
+    margin-left: 5px;
+}
+
+.my-right {
+    float: right;
+}
